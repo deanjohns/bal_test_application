@@ -1,0 +1,8 @@
+[package]
+org = "prasadsrimal"
+name = "test_application"
+version = "0.1.0"
+distribution = "2201.2.2"
+
+[build-options]
+observabilityIncluded = true
